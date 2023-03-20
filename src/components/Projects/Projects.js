@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="Portflio"
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              // demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/Mrityunjay-code"
+
             />
           </Col>
 
@@ -39,7 +39,7 @@ function Projects() {
               title="Service-Based (ReactJs)"
               description="Developed a service-based project using React and [insert any related technologies used]. Implemented [insert project details such as features, functionalities]. Designed and optimized the user interface for enhanced user experience. Utilized [insert any APIs used] to integrate [insert features] and delivered a seamless and efficient solution that meets the clients' requirements."
               ghLink="https://github.com/Mrityunjay-code/React"
-              // demoLink="https://blogs.soumya-jit.tech/"
+
             />
           </Col>
 
@@ -50,7 +50,7 @@ function Projects() {
               title="Void-Music"
               description="Developed an online music player using [insert technology such as HTML, CSS, JavaScript]. Designed and implemented user-friendly interface allowing users to their music library.Limit song available only. to integrate extensive music library and provided seamless playback experience across various devices."
               ghLink="https://github.com/Mrityunjay-code/void-music"
-              // demoLink="https://editor.soumya-jit.tech/"              
+
             />
           </Col>
 
@@ -61,7 +61,7 @@ function Projects() {
               title="Service-Based"
               description="Developed a service-based project using HTML,CSS, and JavaScript. Implemented a responsive and user-friendly interface for [insert service such as online ordering, appointment booking, or content management system]. Utilized AJAX to make dynamic requests and provided real-time updates to enhance user experience. Utilized CSS for styling and JavaScript for adding interactivity and ensuring the seamless functioning of the website across various devices."
               ghLink="https://github.com/Mrityunjay-code/project"
-              // demoLink="https://plant49-ai.herokuapp.com/"
+
             />
           </Col>
 
